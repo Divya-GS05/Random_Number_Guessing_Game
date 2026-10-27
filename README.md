@@ -1,0 +1,1 @@
+This project generates a random number between 1 and 50, and the user has to guess the correct number. The program provides hints such as "Too High!" or "Too Low!", helping the user reach the correct answer.
